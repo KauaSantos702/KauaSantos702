@@ -1,25 +1,11 @@
-## 🇧🇷 Olá! Me chamo Kauã, seja bem-vindo ao meu perfil do GitHub! 
-## 🇺🇸 Hi! My name is Kauã, welcome to my GitHub profile!
+## Hi! My name is Kauã, welcome to my GitHub profile!
 
-## 🇧🇷 Sobre mim 💻
-🌱 21 anos.
-
-👀 Desenvolvedor Full Stack!
-
-📖 Formado em Redes de Computadores pela Fatec Bauru.
-
-📫 Como entrar em contato:
-
-E-mail: kaua20030702@gmail.com
-
-Phone: +55 (14) 98825-5813
-
-<a href="https://www.linkedin.com/in/kau%C3%A3-santos-a1a40322b/">Linkedin</a>
-
-## 🇺🇸 About me 💻
+## About me 💻
 🌱 21 years.
 
-👀 Full Stack Developer!
+🇧🇷 Born and raised in Brazil!
+
+✅ Full Stack Developer!
 
 📖 Graduated in Computer Network at Fatec Bauru.
 
@@ -29,6 +15,7 @@ E-mail: kaua20030702@gmail.com
 
 Phone: +55 (14) 98825-5813
 
+<a href="https://www.linkedin.com/in/kau%C3%A3-santos-a1a40322b/">Linkedin</a>
 
 ## 🖥Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
