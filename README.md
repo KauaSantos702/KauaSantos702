@@ -34,7 +34,7 @@ Phone: +55 (14) 98825-5813
 
 ## 📊 Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaSanto1&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSanto1&layout=compact&theme=midnight-purple&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaSanto1&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSanto1&layout=compact&langs_count=28&theme=midnight-purple&show_icons=true) 
 
 <div style="display: inline_block"><br>
 </div>
