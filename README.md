@@ -13,8 +13,6 @@
 
 E-mail: kaua20030702@gmail.com
 
-Phone: +55 (14) 98825-5813
-
 <a href="https://www.linkedin.com/in/kau%C3%A3-santos-a1a40322b/">Linkedin</a>
 
 ## 🖥Tech Stack
