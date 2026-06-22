@@ -27,16 +27,6 @@ E-mail: kaua20030702@gmail.com
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
-
-## 📊 Github Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaSantos702&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSantos702&layout=compact&langs_count=28&theme=midnight-purple&show_icons=true) 
-
-<div style="display: inline_block"><br>
-</div>
-
 ## 🌐 Socials:
 <div> 
   <a href="https://www.linkedin.com/in/kau%C3%A3-santos-a1a40322b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
