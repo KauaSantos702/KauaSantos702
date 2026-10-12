@@ -1,14 +1,17 @@
-## Hi! My name is Kauã, welcome to my GitHub profile!
+## Hi! welcome to my GitHub profile!
 
 ## About me 💻
-🌱 21 years.
+- 23 years.
 
-🇧🇷 Born and raised in Brazil!
+-  Full Stack Developer!
 
-✅ Full Stack Developer!
+-  Graduated in Computer Network at Fatec Bauru.
 
-📖 Graduated in Computer Network at Fatec Bauru.
+  Languages: 
 
+- English
+- Portuguese
+  
 📫 How to contact me:
 
 E-mail: kaua20030702@gmail.com
